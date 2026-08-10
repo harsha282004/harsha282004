@@ -8,7 +8,7 @@ a software engineer from india
 💭 Ask me about Programming, Website Design <br>
 📧 [Reach out to me](mailto:harshamgowda28@gmail.com)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=harsha282004&label=Profile%20Views&color=0A66C2&style=flat)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_h_a_r_s_h_a_28)[LinkedIn](https://www.linkedin.com/in/Harshavardhana-M-Gowda/)
@@ -21,6 +21,4 @@ a software engineer from india
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=harsha282004&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=harsha282004&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
