@@ -4,9 +4,9 @@ a software engineer from india
 🌱 I'm Currently learning Java, CSS and Python <br>
 💡 I'm Currently working on GAT Virtual Campus Project <br>
 [Check out my Resume](./resume.pdf)<br>
-💻 All my projects are on [GitHub](https://github.com/YourUsername) <br>
+💻 [All my projects are on GitHub](https://github.com/harsha282004) <br>
 💭 Ask me about Programming, Website Design <br>
-✉️ Reach out to me at [yourname@example.com](mailto:yourname@example.com)
+📧 [Reach out to me](mailto:harshamgowda28@gmail.com)
 
 
 
