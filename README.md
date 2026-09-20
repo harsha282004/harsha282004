@@ -13,14 +13,21 @@
 <a href="https://github.com/harsha282004">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <a href="https://www.linkedin.com/in/harshavardhana-m-gowda-321977339/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="mailto:harshamgowda28@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
 <a href="https://www.instagram.com/_h_a_r_s_h_a_28/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="./M-Harshavardhana-Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-View%20Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
 </a>
 
 <br/><br/>
