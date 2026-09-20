@@ -384,15 +384,11 @@ Explore my GitHub repositories for additional academic projects, experiments, de
 
 <br/><br/>
 
-<div align="center">
-
 <img
   width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=harsha282004"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=harsha282004&theme=tokyo-night&hide_border=true&area=true&radius=8"
   alt="GitHub contribution activity graph"
 />
-
-</div>
 
 <br/><br/>
 
