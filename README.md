@@ -387,9 +387,9 @@ Explore my GitHub repositories for additional academic projects, experiments, de
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/harsha282004/harsha282004/main/profile-3d-contrib/profile-night-rainbow.svg"
   width="96%"
-  alt="3D GitHub contribution graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=harsha282004"
+  alt="GitHub contribution activity graph"
 />
 
 </div>
