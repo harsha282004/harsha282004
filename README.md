@@ -356,18 +356,6 @@ Explore my GitHub repositories for additional academic projects, experiments, de
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=harsha282004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harsha282004&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=ffffff&title_color=2563EB&icon_color=4F46E5&text_color=1F2937" alt="M Harshavardhana GitHub statistics" />
-</picture>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha282004&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css,scss" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha282004&layout=compact&hide_border=true&langs_count=10&hide=html,css,scss&bg_color=ffffff&title_color=2563EB&text_color=1F2937" alt="Top programming languages" />
-</picture>
-
-<br/><br/>
-
-<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=harsha282004&theme=tokyonight&hide_border=true" />
 <img src="https://streak-stats.demolab.com/?user=harsha282004&hide_border=true&background=ffffff&ring=2563EB&fire=F97316&currStreakNum=1F2937&sideNums=2563EB&currStreakLabel=4F46E5&sideLabels=4F46E5&dates=6B7280&stroke=E5E7EB" alt="GitHub contribution streak" />
 </picture>
