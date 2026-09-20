@@ -31,8 +31,6 @@
 
 ---
 
-<!-- ============================== ABOUT ============================== -->
-
 ## `$ whoami`
 
 I'm **M Harshavardhana**, a Computer Science Engineering undergraduate interested in **AI/ML, Natural Language Processing, Retrieval-Augmented Generation, Agentic AI, Computer Vision, and Full-Stack Development**.
@@ -84,8 +82,6 @@ Git · Docker · REST APIs
 </div>
 
 <br/>
-
-<!-- ============================== FEATURED PROJECTS ============================== -->
 
 ## 🚀 Featured Projects
 
@@ -245,8 +241,6 @@ Explore my GitHub repositories for additional academic projects, experiments, de
 
 <br/>
 
-<!-- ============================== CURRENT FOCUS ============================== -->
-
 ## 💡 Current Focus
 
 <table>
@@ -313,8 +307,6 @@ Explore my GitHub repositories for additional academic projects, experiments, de
 
 <br/>
 
-<!-- ============================== TECHNICAL SKILLS ============================== -->
-
 ## 🛠️ Technical Skills
 
 ### 🤖 AI / Machine Learning
@@ -359,8 +351,6 @@ Explore my GitHub repositories for additional academic projects, experiments, de
 
 <br/>
 
-<!-- ============================== GITHUB ACTIVITY ============================== -->
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -382,52 +372,23 @@ Explore my GitHub repositories for additional academic projects, experiments, de
 <img src="https://streak-stats.demolab.com/?user=harsha282004&hide_border=true&background=ffffff&ring=2563EB&fire=F97316&currStreakNum=1F2937&sideNums=2563EB&currStreakLabel=4F46E5&sideLabels=4F46E5&dates=6B7280&stroke=E5E7EB" alt="GitHub contribution streak" />
 </picture>
 
+</div>
+
 <br/><br/>
 
+<!-- ============================== 3D GITHUB CONTRIBUTION GRAPH ============================== -->
+
 <div align="center">
+
 <img
+  src="https://raw.githubusercontent.com/harsha282004/harsha282004/main/profile-3d-contrib/profile-night-rainbow.svg"
   width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=harsha282004&theme=tokyo-night&hide_border=true&area=true&radius=8"
-  alt="GitHub contribution activity graph"
+  alt="3D GitHub Contribution Graph"
 />
-</div>
-
-<br/><br/>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=harsha282004&theme=tokyo-night&hide_border=true&area=true&radius=8" />
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=harsha282004&hide_border=true&area=true&radius=8&bg_color=ffffff&color=1F2937&line=2563EB&point=4F46E5&area_color=DBEAFE" alt="GitHub contribution activity graph" />
-</picture>
-
-<br/><br/>
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/harsha282004/harsha282004/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/harsha282004/harsha282004/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/harsha282004/harsha282004/output/github-snake-dark.svg"
-    width="96%"
-    alt="GitHub contribution snake"
-  />
-</picture>
-
-</div>
-
-</div>
 
 </div>
 
 <br/>
-
-<!-- ============================== CONNECT ============================== -->
 
 ## 🤝 Let's Connect
 
@@ -454,8 +415,6 @@ I'm interested in opportunities and collaborations around:
 </div>
 
 <br/>
-
-<!-- ============================== FOOTER ============================== -->
 
 <div align="center">
 
