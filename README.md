@@ -405,11 +405,23 @@ Explore my GitHub repositories for additional academic projects, experiments, de
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/harsha282004/harsha282004/output/github-snake.svg"
-  width="96%"
-  alt="GitHub contribution snake"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/harsha282004/harsha282004/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/harsha282004/harsha282004/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/harsha282004/harsha282004/output/github-snake-dark.svg"
+    width="96%"
+    alt="GitHub contribution snake"
+  />
+</picture>
+
+</div>
 
 </div>
 
