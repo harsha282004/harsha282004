@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:06B6D4&height=230&section=header&text=M%20Harshavardhana&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%2F%20Full-Stack%20Developer%20%C2%B7%20AI%2FML%20%C2%B7%20NLP%20%C2%B7%20RAG&descAlignY=57&descSize=20" width="100%" alt="M Harshavardhana — AI / Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:06B6D4&height=230&section=header&text=M%20Harshavardhana&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20%C2%B7%20Full-Stack%20Developer&descAlignY=57&descSize=20" width="100%" alt="M Harshavardhana — Computer Science · Full-Stack Developer" />
 
 <a href="https://github.com/harsha282004">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=AI+%2F+ML+%C2%B7+NLP+%C2%B7+RAG+%C2%B7+Computer+Vision;Building+AI-powered+applications+and+full-stack+systems;GAT+AI+Virtual+Campus+%C2%B7+Satellite+Change+Detection;React+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker;Data+%E2%86%92+Model+%E2%86%92+API+%E2%86%92+Interface" alt="What I build" />
