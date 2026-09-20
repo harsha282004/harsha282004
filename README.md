@@ -384,11 +384,15 @@ Explore my GitHub repositories for additional academic projects, experiments, de
 
 <br/><br/>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsha282004/harsha282004/output/profile-night-rainbow.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsha282004/harsha282004/output/profile-season-animate.svg" />
-<img src="https://raw.githubusercontent.com/harsha282004/harsha282004/output/profile-night-rainbow.svg" width="96%" alt="3D GitHub contribution graph" />
-</picture>
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/harsha282004/harsha282004/main/profile-3d-contrib/profile-night-rainbow.svg"
+  width="96%"
+  alt="3D GitHub contribution graph"
+/>
+
+</div>
 
 <br/><br/>
 
