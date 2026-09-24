@@ -362,10 +362,14 @@ Explore my GitHub repositories for additional academic projects, experiments, de
 
 <div align="center">
 
-<img
-  src="./profile/streak.svg"
-  alt="GitHub contribution streak"
-/>
+<p>
+  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/>
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+</p>
+
+<p>
+  <img src="./profile/streak.svg" width="70%" alt="GitHub contribution streak"/>
+</p>
 
 </div>
 
